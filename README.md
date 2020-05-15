@@ -6,7 +6,7 @@
 1. Download realesed version from release page
 2. Open bit_google_images_downloader.exe
 
-![main_window]("images/main_window.jpg")
+![main_window](images/main_window.jpg)
 
 
 ## Building
