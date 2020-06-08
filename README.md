@@ -3,8 +3,9 @@
 # Goolge Image Downloader
 
 ## Usage
-1. Download realesed version from [release page](https://github.com/bit-dome/google-images-download/releases)
-2. Open bit_google_images_downloader.exe
+1. Download realesed version from [release page](https://github.com/bit-dome/google-images-download/releases).  
+2. Download [ChromeDriver](https://chromedriver.chromium.org/downloads) with match your Google Chrome version.  
+3. Open bit_google_images_downloader.exe  
 
 ![main_window](images/main_window.jpg)
 
